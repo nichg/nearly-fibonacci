@@ -1,7 +1,7 @@
 require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 
 describe "NearlyFibonacci" do
-  it "fails" do
-    fail "hey buddy, you should probably rename this file and start specing for real"
+  it "has a value of zero on creation" do
+    FibinocciCalculator.new.result.should eq(nil)
   end
 end
