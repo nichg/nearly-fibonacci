@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "nearly-fibonacci"
   gem.homepage = "http://github.com/nichgw/nearly-fibonacci"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A demonstration Fibonacci calculator.}
+  gem.description = %Q{Given a limit, calculate the largest Fibonacci number less than the limit.}
   gem.email = "nichgw@gmail.com"
   gem.authors = ["nichg"]
   # dependencies defined in Gemfile

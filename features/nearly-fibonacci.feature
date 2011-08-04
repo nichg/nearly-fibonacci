@@ -1,7 +1,7 @@
-Feature: Greatest Fibinocci Number
+Feature: Greatest Fibonacci Number
   In order to solve this problem
   As a user 
-  I want to find the greatest Fibinocci number < a given number 
+  I want to find the greatest Fibonacci number < a given number 
 
   Scenario: limit integer is equal to 0
     Given I have entered 0 into the calculator

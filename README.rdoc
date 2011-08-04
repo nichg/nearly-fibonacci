@@ -1,6 +1,14 @@
 = nearly-fibonacci
 
-Description goes here.
+A demonstration Fibonacci Calculator.
+
+Invocation: FibonacciCalculator.new()
+A single argument is allowed, representing the numeric limit for the calculation.
+
+Methods:
+    :limit
+    :calculate
+    :result
 
 == Contributing to nearly-fibonacci
  

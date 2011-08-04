@@ -1,5 +1,5 @@
 Before do
-  @calc = FibinocciCalculator.new
+  @calc = FibonacciCalculator.new
 end
 
 Given /I have entered ([-+]?\d+) into the calculator/ do |n|
